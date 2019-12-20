@@ -1,7 +1,7 @@
 # To-Do-List
 This is a To-Do-List web app. In this web app users can  
 1. Create or visit a created new list by simply adding "/listName" to the url of web page
-2. Add items to a list by clicking typing new item and then clicking + sign 
+2. Add items to a list by typing new item and then clicking + sign 
 3. Remove items from a list by clicking the checkbox to the left of item
 
 ## Preview
